@@ -9,7 +9,7 @@ To run project, use
 
 There are three option to choose in command line.
 
-(Option 1) Objective 1: Print out current time__
+(Option 1) Objective 1: Print out current time <br />
 (Option 2) Objective 2: Covert time by user input__
 (Option 3) Objective 3: Start Spring and get convert time by Restful API__
 
