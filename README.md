@@ -1,7 +1,13 @@
 
 # TalkingClockCodingChallenge
 Welcome to Talking Clock Coding Challenge. 
-Gradle run command line is available to this project.
+
+To run project, use 
+  `gradle build` 
+  `gradle run`
+  
+  OR IDE OR javac command line.
+  
 
 There are three option to choose in command line.
 
