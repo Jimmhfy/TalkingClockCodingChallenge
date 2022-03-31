@@ -9,9 +9,9 @@ To run project, use
 
 There are three option to choose in command line.
 
-(Option 1) Objective 1: Print out current time 
-(Option 2) Objective 2: Covert time by user input
-(Option 3) Objective 3: Start Spring and get convert time by Restful API
+(Option 1) Objective 1: Print out current time \n
+(Option 2) Objective 2: Covert time by user input \n
+(Option 3) Objective 3: Start Spring and get convert time by Restful API \n
 
 Command line example:
 Please select 1-3 option. To exit, input q
