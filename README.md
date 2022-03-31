@@ -4,9 +4,7 @@ Welcome to Talking Clock Coding Challenge.
 
 To run project, use 
   `gradle build` 
-  `gradle run`
-  
-  OR IDE OR javac command line.
+  `gradle run` or IDE or javac command line.
   
 
 There are three option to choose in command line.
