@@ -13,8 +13,8 @@ There are three option to choose in command line.
 (Option 2) Objective 2: Covert time by user input <br />
 (Option 3) Objective 3: Start Spring and get convert time by Restful API <br />
 
-Command line example:
-Please select 1-3 option. To exit, input q
+Command line example:<br />
+Please select 1-3 option. To exit, input q <br />
 -----------------------------------------------------------
 Objective 1: Print out current time
 Objective 2: Covert time by user input
