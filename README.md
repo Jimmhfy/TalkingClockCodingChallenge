@@ -1,6 +1,7 @@
 
-# TalkingClockCodingChallenge (Gradle run command line available)
-Welcome to Talking Clock Coding Challenge.
+# TalkingClockCodingChallenge
+Welcome to Talking Clock Coding Challenge. 
+Gradle run command line is available to this project.
 
 There are three option to choose in command line.
 
