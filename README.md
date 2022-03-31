@@ -21,7 +21,7 @@ Objective 2: Covert time by user input <br />
 Objective 3: Start Spring and get convert time by Restful API <br />
 -----------------------------------------------------------
 
-Example of output:
+Example of output: <br />
 1:00  -> One o'clock <br />
 13:00 -> One o'clock <br />
 13:15 -> Quarter past one <br />
