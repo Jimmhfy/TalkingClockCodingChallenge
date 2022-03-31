@@ -16,9 +16,9 @@ There are three option to choose in command line.
 Command line example:<br />
 Please select 1-3 option. To exit, input q <br />
 -----------------------------------------------------------
-Objective 1: Print out current time
-Objective 2: Covert time by user input
-Objective 3: Start Spring and get convert time by Restful API
+Objective 1: Print out current time <br />
+Objective 2: Covert time by user input <br />
+Objective 3: Start Spring and get convert time by Restful API <br />
 -----------------------------------------------------------
 
 Example of output:
